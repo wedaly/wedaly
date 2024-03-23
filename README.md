@@ -1,1 +1,1 @@
-Software engineer at Azure Kubernetes working on container networking. Built a [minimalist vim clone called aretext](https://aretext.org). Sometimes [blog about my open source work and growing up in Silicon Valley](https://devnonsense.com).
+Software engineer at Azure Kubernetes working on container networking. Built a [minimalist vim clone called aretext](https://aretext.org). Sometimes [blog about things I'm learning and growing up in Silicon Valley](https://devnonsense.com).
